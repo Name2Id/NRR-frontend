@@ -11,5 +11,5 @@
 ## maspro REPO.
 
 <div>
-  <a href="https://name2id.github.io">maspro</a>
+  <a href="https://name2id.github.io/NRR-frontend/">maspro</a>
 </div>
